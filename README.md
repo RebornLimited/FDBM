@@ -17,7 +17,7 @@ Install the library:
 
 # Usage
 ```python
-from FDBM import Database
+from FastDBM import Database
 
 Database.manager()
 ```
