@@ -7,7 +7,7 @@ Install the library:
 	<li>Installing with pip:</li>
 </ul>
 
-```$ pip install fdbm```
+```$ pip install fastdbm```
 
 <ul>
 	<li>Installing with git:</li>
@@ -17,7 +17,7 @@ Install the library:
 
 # Usage
 ```python
-from fdbm import Database
+from fastdbm import Database
 
 Database.manager()
 ```
