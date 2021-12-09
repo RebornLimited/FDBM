@@ -16,7 +16,7 @@ Install the library:
 ```$ git clone https://github.com/RebornLimited/FDBM```
 
 # Usage
-```
+```python
 from fdbm import Database
 
 Database.manager()
