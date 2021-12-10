@@ -1,0 +1,56 @@
+Metadata-Version: 2.1
+Name: FastDBM
+Version: 1.0.1
+Summary: Manage your database in two lines of code.
+Home-page: https://github.com/RebornLimited/FDBM
+Author: Reborn
+Author-email: mixamo2354@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# Fast DataBase Management
+#### Manage your database in two lines of code.
+
+# Getting started
+Install the library:
+<ul>
+	<li>Installing with pip:</li>
+</ul>
+
+```$ pip install FastDBM```
+
+<ul>
+	<li>Installing with git:</li>
+</ul>
+
+```$ git clone https://github.com/RebornLimited/FDBM```
+
+# Usage
+```python
+from FastDBM import Database
+
+Database.manager()
+```
+Then run your file through the console.<br>
+```$ python your_file.py```<br>
+Enter the data that the program asks for.<br>
+```
+$ Enter host from database: localhost
+$ Enter port from database: 3306
+$ Enter username from database: root
+$ Enter password from database: your_password
+$ Enter the name of the database: your_db
+$ Successfully connected!
+$ Enter the command: your_command
+$ Use commit?(Y/n): y/n
+$ Operation completed successfully!
+$ Check your database.
+```
+That's all!
+
+
