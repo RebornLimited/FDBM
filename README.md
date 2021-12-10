@@ -13,7 +13,11 @@ Install the library:
 	<li>Installing with git:</li>
 </ul>
 
-```$ git clone https://github.com/RebornLimited/FDBM```
+```
+$ git clone https://github.com/RebornLimited/FastDBM
+$ cd FastDBM
+$ python setup.py install
+```
 
 # Usage
 ```python
