@@ -1,6 +1,3 @@
-# Fast DataBase Management
-#### Manage your database in two lines of code.
-
 # Getting started
 Install the library:
 <ul>
@@ -21,7 +18,7 @@ $ python setup.py install
 
 # Usage
 ```python
-from FastDBM import Database
+from fastdbm import Database
 
 Database.manager()
 ```

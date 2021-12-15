@@ -1,8 +1,8 @@
 README.md
 setup.cfg
 setup.py
-FastDBM/__init__.py
 FastDBM.egg-info/PKG-INFO
 FastDBM.egg-info/SOURCES.txt
 FastDBM.egg-info/dependency_links.txt
 FastDBM.egg-info/top_level.txt
+fastdbm/__init__.py
